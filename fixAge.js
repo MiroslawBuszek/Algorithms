@@ -1,7 +1,7 @@
 // 10. Fix age
 
 const fixAge = num => {
-            return num.filter(num => (num >= 18 && num <= 60)).toString()    
+    return num.filter(num => (num >= 18 && num <= 60)).toString()    
 };
 
 
